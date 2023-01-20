@@ -2,7 +2,6 @@
 
 export default defineNuxtConfig({
     app: {
-        buildAssetsDir: '/public',
         head: {
             title: 'CrazyCrew',
             meta: [
@@ -15,7 +14,7 @@ export default defineNuxtConfig({
                 {
                     rel: 'icon',
                     type: 'image/x-icon',
-                    href: '/public/assets/favicon.ico'
+                    href: '/assets/favicon.ico'
                 }
             ]
         }
