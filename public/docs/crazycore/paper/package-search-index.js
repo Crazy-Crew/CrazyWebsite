@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"us.crazycrew.crazycore.paper"},{"l":"us.crazycrew.crazycore.paper.events.armor"},{"l":"us.crazycrew.crazycore.paper.items"},{"l":"us.crazycrew.crazycore.paper.player"},{"l":"us.crazycrew.crazycore.paper.utils"}];updateSearchResults();
